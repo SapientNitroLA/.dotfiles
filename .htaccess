@@ -2,7 +2,7 @@ Options +Includes +Indexes +FollowSymLinks
 AddType image/svg+xml svg
 AddType 'text/html; charset=UTF-8' html
 AddHandler server-parsed .html
-DirectoryIndex index.html
+DirectoryIndex index.html index.php
 
 # SSIETag off
 FileETag none
